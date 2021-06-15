@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-one/static/css/main.d06312ba.chunk.css",
+    "main.js": "/react-one/static/js/main.2d5c9b4c.chunk.js",
+    "main.js.map": "/react-one/static/js/main.2d5c9b4c.chunk.js.map",
+    "runtime-main.js": "/react-one/static/js/runtime-main.c09b46e0.js",
+    "runtime-main.js.map": "/react-one/static/js/runtime-main.c09b46e0.js.map",
+    "static/js/2.2a7eb467.chunk.js": "/react-one/static/js/2.2a7eb467.chunk.js",
+    "static/js/2.2a7eb467.chunk.js.map": "/react-one/static/js/2.2a7eb467.chunk.js.map",
+    "static/js/3.5f60f9f6.chunk.js": "/react-one/static/js/3.5f60f9f6.chunk.js",
+    "static/js/3.5f60f9f6.chunk.js.map": "/react-one/static/js/3.5f60f9f6.chunk.js.map",
+    "index.html": "/react-one/index.html",
+    "static/css/main.d06312ba.chunk.css.map": "/react-one/static/css/main.d06312ba.chunk.css.map",
+    "static/js/2.2a7eb467.chunk.js.LICENSE.txt": "/react-one/static/js/2.2a7eb467.chunk.js.LICENSE.txt",
+    "static/media/jo.a488f188.jpg": "/react-one/static/media/jo.a488f188.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c09b46e0.js",
+    "static/js/2.2a7eb467.chunk.js",
+    "static/css/main.d06312ba.chunk.css",
+    "static/js/main.2d5c9b4c.chunk.js"
+  ]
+}
